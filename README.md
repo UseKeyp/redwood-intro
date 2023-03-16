@@ -13,6 +13,7 @@ More docs below.
 1. Clone this repo (not fork it!), and publish to your own GitHub. Don't let others cheat off of you :P
 2. Checkout the issues https://github.com/UseKeyp/redwood-intro/issues and complete issue #1-3. #4 is an optional bonus.
 3. Complete the issues, each with its own unique branch and pull request into your own repository's main branch.
+4. Add `cupojoseph` and `pi0neerpat` to your repo, or send us a link if it's public.
 
 # README from redwood initialized app:
 
